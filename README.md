@@ -1,4 +1,4 @@
-# LCC_project
+# Active Learning for improved landcover classification
 
 This is integrated in my Master's dissertation project. The goal is to use geospatial data, namely _Sentinel-2 Surface Reflectance_ imagery in order to classify the land cover of the whole region of Guinea-Bissau and part of Guinea, creating Land Cover Maps with the results that can be used in other projects.
 
